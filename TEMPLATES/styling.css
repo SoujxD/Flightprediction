@@ -1,0 +1,33 @@
+.bgimage{
+    background-image:url("flight.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+}
+body {
+    background-color: #000000;
+    text-align: center;
+    
+  
+    
+
+    
+    
+}
+.content{
+    background-color:white;
+    width:50%;
+    padding :40px;
+    margin: 100px auto;
+}
+
+.navbar {
+    background-color: #383a37;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
